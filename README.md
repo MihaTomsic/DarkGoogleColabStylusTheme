@@ -12,7 +12,7 @@ and import it into Stylus.
 
 # Future work
 
-Menus, scrollbars, active/passive gutters ...
+Scrollbars, active/passive gutters ...
 
 Clearer and more structured code would improve readability but my first goal is functional code.
 
