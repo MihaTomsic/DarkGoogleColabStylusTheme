@@ -12,7 +12,11 @@ and import it into Stylus.
 
 # Future work
 
-Scrollbars, active/passive gutters ...
+Scrollbars ...
+
+Output messages might be a problem because style is hardcoded into the HTML elements. AFAIK Stylus does not support altering element style.
+
+Error messages are particulary dark (red, blue) so it's sometimes hard to read.
 
 Clearer and more structured code would improve readability but my first goal is functional code.
 
